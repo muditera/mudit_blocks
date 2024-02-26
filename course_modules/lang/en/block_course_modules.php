@@ -27,6 +27,7 @@ $string['completed'] = 'Completed';
 $string['passedwithgrade'] = 'Completed(Achieved pass grade)';
 $string['failwithgrade'] = 'Completed(Did not achieve pass grades)';
 $string['unknowncompletion'] = 'Unknown Completion Status';
+$string['course_modules:addinstance'] = 'Add a course modules block';
 
 
 
